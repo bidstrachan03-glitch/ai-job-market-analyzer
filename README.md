@@ -1,4 +1,4 @@
-# AI Job Market Skill Analyzer 🤖📊
+# AI Job Market Skill Analyzer 
 
 ## Overview
 This project uses Python and NLP (spaCy) to analyze job postings and extract trending technical skills in the job market.
